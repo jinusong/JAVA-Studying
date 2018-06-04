@@ -2,6 +2,7 @@ package Object클래스;
 
 import java.util.Date;
 
+//객체 문자 정보(toString())
 public class ToStringExample {
 	public static void main(String[] args) {
 		Object obj1 = new Object();
