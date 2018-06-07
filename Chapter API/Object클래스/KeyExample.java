@@ -1,5 +1,7 @@
 package Object클래스;
-
+ 
+//객체 해시코드(hashCode())
+//다른 키로 인식
 import java.util.HashMap;
 
 public class KeyExample {
