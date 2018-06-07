@@ -2,7 +2,7 @@ package 예외정보얻기;
 
 import 사용자정의예외_예외발생.Account;
 import 사용자정의예외_예외발생.BalanceInsufficientException;
-
+ 
 //사용자 정의 예외 발생시키기
 public class AccountExample {
 	public static void main(String[] args) {
