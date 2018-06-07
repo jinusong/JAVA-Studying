@@ -1,7 +1,7 @@
 package 예외종류에따른처리코드;
 
 import 자동리소스닫기.FileInputStream;
-
+ 
 //AutoCloseable 구현 클래스
 public class TryWithResourceExample {
 	public static void main(String[] args) {
