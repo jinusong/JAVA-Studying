@@ -3,7 +3,7 @@ package Objects클래스;
 //널 여부 조사(isNull(), nonNull(), requireNonNull())
 //Null여부 조사
 import java.util.Objects;
-
+ 
 public class NullExample {
 	public static void main(String[] args) {
 		String str1 = "홍길동";
