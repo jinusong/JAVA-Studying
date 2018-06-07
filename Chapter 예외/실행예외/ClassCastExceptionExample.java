@@ -1,5 +1,5 @@
 package 실행예외;
-
+ 
 public class ClassCastExceptionExample {
 	public static void main(String[] args) {
 		Dog dog = new Dog();
