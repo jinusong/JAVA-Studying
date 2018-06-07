@@ -1,5 +1,5 @@
 package Object클래스;
-
+ 
 //객체 문자 정보(toString())
 public class SmartPhone {
 	private String company;
