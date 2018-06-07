@@ -1,5 +1,5 @@
 package 실행예외;
-
+ 
 /*public class ArrayIndexOutOfBoundsExceptionExample {
 	public static void main(String[] args) {
 		String data1 = args[0];
