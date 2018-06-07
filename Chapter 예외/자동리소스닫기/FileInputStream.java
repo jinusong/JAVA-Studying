@@ -1,5 +1,5 @@
 package 자동리소스닫기;
-
+ 
 //자동 리소스 닫기
 public class FileInputStream implements AutoCloseable{
 	private String file;
