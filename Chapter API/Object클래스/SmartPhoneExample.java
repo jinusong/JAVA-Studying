@@ -9,5 +9,5 @@ public class SmartPhoneExample {
 		System.out.println(strObj);
 		
 		System.out.println(myPhone);
-	}
+	} 
 }
