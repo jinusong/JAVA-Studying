@@ -1,5 +1,5 @@
 package 사용자정의예외_예외발생;
-
+ 
 //사용자 정의 예외 발생시키기
 public class Account {
 	private long balance;
