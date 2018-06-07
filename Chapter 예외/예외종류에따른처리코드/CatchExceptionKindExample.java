@@ -1,5 +1,5 @@
 package 예외종류에따른처리코드;
-
+ 
 //다중 catch
 public class CatchExceptionKindExample {
 	public static void main(String[]args) {
