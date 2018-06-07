@@ -10,4 +10,4 @@ public class ToStringExample {
 		System.out.println(obj1.toString());
 		System.out.println(obj2.toString());
 	}
-}
+} 
