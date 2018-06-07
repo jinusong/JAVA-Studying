@@ -1,5 +1,5 @@
 package Object클래스;
-
+ 
 //객체 소멸자 (finalize())
 //finalize()메소드 재정의
 
