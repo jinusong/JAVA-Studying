@@ -1,5 +1,5 @@
 package 예외종류에따른처리코드;
-
+ 
 //멀티 catch
 public class MultiCatchExample {
 	public static void main(String[] args) {
