@@ -1,5 +1,5 @@
 package 예외떠넘기기;
-
+ 
 //예외 떠넘기기
 public class ThrowsExample {
 	public static void main(String[] args) {
