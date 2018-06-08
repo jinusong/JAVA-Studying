@@ -8,4 +8,3 @@ public class SystemEnvExample {
 		System.out.println("JAVA_HOME: " + javaHome);
 	}
 }
- 
