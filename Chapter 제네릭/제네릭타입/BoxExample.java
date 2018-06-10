@@ -14,7 +14,7 @@ public class BoxExample {
 		Apple apple = (Apple) box.get();	// Object -> Apple (강제 타입 변환)
 	}
 }
-*/
+*/ 
 
 //제네릭타입(class<T>,interface<T>)
 //제네릭 타입 이용
