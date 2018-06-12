@@ -7,7 +7,7 @@ package 멀티타입파라미터;
 public class Util {
 	public static <T> Box<T> boxing(T t){
 		Box<T> box = new Box<T>();
-		box.set(t);
+		box.set(t); 
 		return box;
 	}
 }
