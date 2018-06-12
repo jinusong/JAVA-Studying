@@ -11,4 +11,4 @@ public class BoxingMethodExample {
 		Box<String> box2 = Util.boxing("ȫ�浿");
 		String strValue = box2.get();
 	}
-}
+} 
