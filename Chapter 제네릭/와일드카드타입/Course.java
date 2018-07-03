@@ -1,5 +1,8 @@
 package 와일드카드타입;
 
+//와일드카드 타입(<?>, <? extends ...>, <? super ...>)
+//제네릭 타입
+
 public class Course<T>{
 	private String name;
 	private T[] students;

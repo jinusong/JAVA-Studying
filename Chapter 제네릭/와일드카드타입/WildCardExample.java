@@ -1,5 +1,8 @@
 package 와일드카드타입;
 
+//와일드카드 타입(<?>, <? extends ...>, <? super ...>)
+//와일드카드 타입 매개 변수
+
 import java.util.Arrays;
 
 public class WildCardExample {
