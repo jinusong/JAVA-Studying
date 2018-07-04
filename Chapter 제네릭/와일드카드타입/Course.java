@@ -13,7 +13,7 @@ public class Course<T>{
 													//생성할 수 없고 (T[]) (new Object[n])으로 생성해야한다.
 	}
 	
-	public String getNme() { return name; }
+	public String getName() { return name; }
 	public T[] getStudents() { return students; }
 	public void add(T t) {
 		for(int i = 0; i<students.length; i++) {

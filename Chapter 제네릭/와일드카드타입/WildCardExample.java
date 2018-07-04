@@ -38,5 +38,22 @@ public class WildCardExample {
 		Course<HighStudent> highStudentCourse = 
 				new Course<HighStudent>("고등학생과정", 5);
 		highStudentCourse.add(new HighStudent("고등학생"));
+		
+		registerCourse(personCourse);
+		registerCourse(workerCourse);
+		registerCourse(studentCourse);
+		registerCourse(highStudentCourse);
+		System.out.println();
+		
+		//registerCourseStudent(personCourse);	(x)
+		//registerCourseStudent(workerCourse);	(x)
+		registerCourseStudent(studentCourse);
+		registerCourseStudent(highStudentCourse);
+		System.out.println();
+		
+		registerCourseWorker(personCourse);
+		registerCourseWorker(workerCourse);
+		//registerCourseWorker(studentCourse);	(x)
+		//registerCourseWorker(highStudentCourse);	(x)
 	}
 }
