@@ -1,5 +1,7 @@
 package 표준API의_함수적인터페이스;
 
+// 표준 API의 함수적 인터페이스
+// 함수적 인터페이스와 람다식
 public class RunnableExample {
 	public static void main(String[] args) {
 		Runnable runnable = () -> {
