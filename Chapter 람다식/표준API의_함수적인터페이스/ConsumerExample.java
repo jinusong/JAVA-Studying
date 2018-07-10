@@ -11,7 +11,7 @@ import java.util.function.ObjIntConsumer;
 // Consumer<String> consumer = t -> { t를 소비하는 실행문; }
 // BitConsumer<String, String>consumer = (t, u) -> { t와 u를 소비하는 실행문; }
 // DoubleConsumer consumer = d -> { d를 소비하는 실행문; }
-// ObjIntConsumer<String> consumer = (t, i) -> { t와 i를 소비하는 실행문; }
+// ObjIntConsumer<String> consumer = (t, i) -> { t와 i를 소비하는 실행문; } 
 
 public class ConsumerExample {
 	public static void main(String[] args) {
