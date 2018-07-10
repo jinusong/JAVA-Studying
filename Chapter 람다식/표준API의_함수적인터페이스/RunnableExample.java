@@ -9,7 +9,7 @@ public class RunnableExample {
 			for(int i = 0; i<10; i++) {
 				System.out.println(i);	//람다식( 스레드가 실행하는 코도 )
 			}
-		};
+		}; 
 		
 		Thread thread = new Thread(runnable);
 		thread.start();
