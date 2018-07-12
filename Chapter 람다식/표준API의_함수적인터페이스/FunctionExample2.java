@@ -1,5 +1,8 @@
 package 표준API의_함수적인터페이스;
 
+// 표준 API의 함수적 인터페이스
+// Function 함수적 인터페이스
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.ToIntFunction;
