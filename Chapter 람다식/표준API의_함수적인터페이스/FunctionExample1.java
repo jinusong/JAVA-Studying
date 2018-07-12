@@ -1,5 +1,8 @@
 package 표준API의_함수적인터페이스;
 
+// 표준 API의 함수적 인터페이스
+// Function 함수적 인터페이스
+
 import java.util.List;
 import java.util.function.Function;
 import java.util.function.ToIntFunction;
@@ -13,14 +16,14 @@ public class FunctionExample1 {
 	
 	public static void printString( Function<Student, String> function) {
 		for(Student student : list) { //list에 저장된 항목 수만큼 루핑
-			System.out.print(function.apply((student) + " ");
+			System.out.print(function.apply(student) + " ");
 		}
 		System.out.println();
 	}
 	
 	public static void printInt( ToIntFunction<Student> function) {
 		for(Student student : list) { // list에 저장된 항목 수만큼 루핑
-			System.out.print(function.applyAsInt(Student) + " ");
+			System.out.print(function.applyAsInt(student) + " ");
 		}
 		System.out.println();
 	}
