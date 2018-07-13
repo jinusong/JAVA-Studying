@@ -22,7 +22,7 @@ public class FunctionExample1 {
 	}
 	
 	public static void printInt( ToIntFunction<Student> function) {
-		for(Student student : list) { // list에 저장된 항목 수만큼 루핑
+		for(Student student : list) { 	// list에 저장된 항목 수만큼 루핑
 			System.out.print(function.applyAsInt(student) + " ");
 		}
 		System.out.println();
