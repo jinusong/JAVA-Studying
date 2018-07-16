@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // List컬렉션
+// ArrayList
 // String 객체를 저장하는 ArrayList
 
 public class ArrayListExample {
