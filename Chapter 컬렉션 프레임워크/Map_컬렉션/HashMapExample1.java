@@ -6,14 +6,14 @@ import java.util.Set;
 import java.util.Iterator;
 
 // Map 컬렉션
-// HashMap
+// HashMap 
 // 이름을 키로 점수를 값으로 저장하기
-
+ 
 public class HashMapExample1 {
 	public static void main(String[] args) {
 		//Map 컬렉션 생성
 		Map<String, Integer> map = new HashMap<String, Integer>();
-		
+		 
 		//객체 저장
 		map.put("신용권", 85);
 		map.put("홍길동", 90);
