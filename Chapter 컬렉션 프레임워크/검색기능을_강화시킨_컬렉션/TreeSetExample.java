@@ -2,6 +2,10 @@ package 검색기능을_강화시킨_컬렉션;
 
 import java.util.TreeSet;
 
+// 검색 기능을 강화시킨 컬렉션
+// TreeSet
+// 특정 객체 찾기
+
 public class TreeSetExample {
 	public static void main(String[] args) {
 		TreeSet<Integer> scores = new TreeSet<Integer>();
