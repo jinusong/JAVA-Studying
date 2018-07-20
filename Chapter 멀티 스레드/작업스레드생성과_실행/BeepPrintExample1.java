@@ -2,6 +2,10 @@ package 작업스레드생성과_실행;
 
 import java.awt.Toolkit;
 
+// 작업스레드생성과 실생
+// Thread 클래스부터 직접 생성
+// 메인 스레드만 이용한 경우
+
 public class BeepPrintExample1 {
 	public static void main(String[] args) {
 		Toolkit toolkit = Toolkit.getDefaultToolkit();	//Toolkit 객체 얻기
