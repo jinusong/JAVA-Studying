@@ -1,5 +1,9 @@
 package 작업스레드생성과_실행;
 
+// 작업스레드생성과 실생
+// 스레드의 이름
+// 메인 스레드 이름 출력 및 UserThread 생성 및 시작
+
 public class ThreadNameExample {
 	public static void main(String[] args) {
 		Thread mainThread = Thread.currentThread();	//이 코드를 실행하는 스레드 객체 얻기
