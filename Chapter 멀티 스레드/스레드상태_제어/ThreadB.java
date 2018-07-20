@@ -2,7 +2,7 @@ package 스레드상태_제어;
 
 // 스레드상태 제어
 // 다른 스레드에게 실행 양보(yield())
-// 스레드 실행 양보 예제
+// 스레드 실행 양보 예제 
 
 
 public class ThreadB extends Thread{
