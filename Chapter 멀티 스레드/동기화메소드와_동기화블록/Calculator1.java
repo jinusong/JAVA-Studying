@@ -1,5 +1,7 @@
 package 동기화메소드와_동기화블록;
 
+// 동기화 메소드와 동기화 블록
+// 동기화 메소드로 수정된 공유객체
 
 /*
 public synchronized void method(){
