@@ -1,5 +1,8 @@
 package 스레드_우선순위;
 
+// 스레드 우선순위
+// 우선순위를 설정해서 스레드 실행
+
 public class PriorityExample {
 	public static void main(String[] args) {
 		for(int i=1; i<=10; i++) {
