@@ -1,5 +1,8 @@
 package 스레드_우선순위;
 
+// 스레드 우선순위
+// 작업 스레드
+
 public class CalcThread extends Thread{
 	public CalcThread(String name) {
 		setName(name);	//스레드 이름 변경
