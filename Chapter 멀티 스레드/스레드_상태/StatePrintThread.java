@@ -1,5 +1,8 @@
 package 스레드_상태;
 
+// 스레드 상태
+// 타겟 스레드의 상태를 출력하는 스레드
+
 public class StatePrintThread extends Thread{
 	private Thread targetThread;
 	
