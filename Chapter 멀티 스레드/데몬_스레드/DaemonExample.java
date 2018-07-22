@@ -1,5 +1,8 @@
 package 데몬_스레드;
 
+// 데몬 스레드
+// 메인 스레드가 실행하는 코드
+
 public class DaemonExample {
 	public static void main(String[] args) {
 		AutoSaveThread autoSaveThread = new AutoSaveThread();
