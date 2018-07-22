@@ -2,7 +2,7 @@ package 스레드상태_제어;
 
 // 스레드 상태 제어
 // 스레드 간 협업(wait(), notify(), notifyAll())
-// WorkObject의 methodC()를 실행하는 스레드
+// WorkObject의 methodC()를 실행하는 스레드 
 
 public class ThreadC extends Thread {
 	private WorkObject workObject;
